@@ -1,0 +1,6 @@
+input_osm_file: "path_planning/osms/umh.osm"
+plot_route: "True"
+output_csv: "True"
+orig: "(38.275401 ,  -0.686178)"
+dest: "(38.276378, -0.686282)"
+csv_folder: "path_planning/csv_routes/"
